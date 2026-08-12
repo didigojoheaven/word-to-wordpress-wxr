@@ -1,0 +1,6 @@
+interface:
+  display_name: "WordPress SEO Drafts"
+  short_description: "Create reviewed Word SEO drafts and scheduled WXR imports."
+  default_prompt: "Use $word-to-wordpress-wxr to create a reviewed, validated WordPress draft WXR from these SEO articles."
+policy:
+  allow_implicit_invocation: true
