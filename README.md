@@ -13,8 +13,7 @@ site.
 - `scripts/schedule_wxr.py`: creates a separate scheduled-import WXR. / 创建单独的定时导入 WXR。
 - `agents/openai.yaml`: Codex skill metadata. / Codex 技能元数据。
 
-## Use in Codex
-在 Codex 中使用
+## Use in Codex / 在 Codex 中使用
 
 Install this directory as a Codex skill, then invoke
 `$word-to-wordpress-wxr` in a task. The skill documentation describes the
