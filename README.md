@@ -4,12 +4,12 @@ An OpenAI Codex skill for converting Chinese SEO articles in Word documents
 into reviewable and validated WordPress WXR draft imports for the Style3D Help
 site.
 
-## Contents
+## Contents / 内容
 
-- `SKILL.md`: workflow and content-review requirements.
-- `scripts/generate_wxr.py`: Word-to-WXR converter and validator.
-- `scripts/schedule_wxr.py`: creates a separate scheduled-import WXR.
-- `agents/openai.yaml`: Codex skill metadata.
+- `SKILL.md`: workflow and content-review requirements. / 工作流和内容审查要求。
+- `scripts/generate_wxr.py`: Word-to-WXR converter and validator. / Word 到 WXR 转换器和验证器。
+- `scripts/schedule_wxr.py`: creates a separate scheduled-import WXR. / 创建单独的定时导入 WXR。
+- `agents/openai.yaml`: Codex skill metadata. / Codex 技能元数据。
 
 ## Use in Codex
 
@@ -24,13 +24,6 @@ The converter does not modify input Word documents or publish/import posts.
 # Word to WordPress WXR
 
 一个 OpenAI Codex 技能，用于将 Word 文档中的中文 SEO 文章转换为可审查和验证的 WordPress WXR 草稿导入，供 Style3D 帮助中心使用。
-
-## 内容
-
-- `SKILL.md`：工作流和内容审查要求。
-- `scripts/generate_wxr.py`：Word 到 WXR 转换器和验证器。
-- `scripts/schedule_wxr.py`：创建单独的定时导入 WXR。
-- `agents/openai.yaml`：Codex 技能元数据。
 
 ## 在 Codex 中使用
 
