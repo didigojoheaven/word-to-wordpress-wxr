@@ -14,8 +14,7 @@ site.
 - `agents/openai.yaml`: Codex skill metadata. / Codex 技能元数据。
 
 ## Use in Codex
-
-## 在 Codex 中使用
+在 Codex 中使用
 
 Install this directory as a Codex skill, then invoke
 `$word-to-wordpress-wxr` in a task. The skill documentation describes the
